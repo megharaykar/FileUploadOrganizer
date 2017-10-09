@@ -2,8 +2,8 @@
 File Upload application with Nodejs, GridFS and Angular 2
 
 ## Quick Setup
-- `git clone https://github.com/rahil471/fileupload-nodejs-gridfs-angular2.git`
-- Naviagte into the directory
+- `git clone https://github.com/megharaykar/FileUploadOrganizer.git`
+- Navigate into the directory
 - `npm install`
 - MongoDB should be installed and running on default port
 - `node app.js` this will start the node server on port 3002
